@@ -1,0 +1,85 @@
+{
+	"landing": {
+		"firstName": "Nitin",
+		"lastName": "Bhandari",
+		"phoneNumber": "+1 (505) 814 3850",
+		"bio": "I am a Full stack Developer and Research Assistant at the University of New Mexico. I primarily work with MERN Stack with Nodejs, Expressjs and MongoDB for backend/serverside development and React for forntend/clientside development. I have developed REST APIs as a part of my current job. I am also a certified Carpentry instructor, conducting workshops in software and data carpentry. I also work on machine learning and deep learning as side projects using Python and Pytorch. Currently I am pursuing my Masters in Computer Science and graduating in December 2020",
+    "email": "bnitin92@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/nitinbhandari11/",
+		"github": "https://github.com/bnitin92"
+	},
+	"experience": [
+		{
+				"position": "Full Stack Developer/Research Assistant",
+				"organization": "University of New Mexico",
+				"aboutWork": "Working under Research Data Services department for an NSF EPSCoR project. Responsible of developing web application using web application and migration from older stack. Also work wiht containerized deploymnet using Docker. Timely conducts software and data carpentry wrokshops along with other instructors.",
+				"fromDate": "May 2019",
+				"toDate": "Present"
+		},
+		{
+			"position": "Associate System Engineer",
+			"organization": "IBM India Pvt Ltd",
+			"aboutWork": "Primarily worked on automation testing for a banking services project. Reduced the overall cost of testing products by 50% (£19,000) as the yearly cost by developing an automated testing environment using Unified Functional Testing",
+			"fromDate": "March 2016",
+			"toDate": "April 2017"
+		},
+		{
+			"position": "Web Development Intern",
+			"organization": "HCL Career Development Center",
+			"aboutWork": "Developed e-commerce website using ASP.NET, C#, HTML, CSS",
+			"fromDate": "May 2013",
+			"toDate": "June 2013"
+		}
+	],
+	"education": [{
+			"university": "University of New Mexico",
+			"degree": "Master of Science in Computer Science",
+			"gpa": "3.77 / 4.0",
+			"fromDate": "August 2018",
+			"toDate": "December 2020"
+		},
+		{
+			"university": "National Institute of Technology Goa",
+			"degree": "Bachelor of Technology in Computer Science and Engineering",
+			"gpa": "7.42 / 10",
+			"fromDate": "August 2011",
+			"toDate": "May 2015"
+		}
+	],
+	"skills": [{
+			"name": "MongoDB"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "Express.js"
+		},
+		{
+			"name": "JavaScript"
+		},
+		{
+			"name": "React"	
+		},
+		{
+			"name": "Docker"
+		},
+		{
+			"name": "Nodejs"
+		},
+		{
+			"name": "Pytorch"
+		}
+	],
+	"interests": {
+		"paragraphOne": "Along with my usual job as a software developer and master's student I love my time being outdoors like going for a hike or exploring new places. I try to visit new places whenever time permits.",
+		"paragraphTwo": "When forced indoors, I watch all popular  movies and television shows, usually Hollywood and Bollowod movies. I am a foodie and an aspiring chef and so I try different cuisine and also try cooking different dishes."
+	},
+	"awards": [{
+			"awardDetail": "Runner up for IBM Service Excellence Award (SEA) year 2016-2017"
+		},
+		{
+			"awardDetail": "Certified Software Carpentry Instructor"
+		}
+	]
+}
